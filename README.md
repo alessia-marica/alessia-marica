@@ -1,16 +1,31 @@
-## Hi there 👋
+# Alessia Marica
 
-<!--
-**alessia-marica/alessia-marica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Student in Human-Centered AI – NeuroAI  
+University of Milan, Milan Bicocca, Pavia.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Neuroscience
+- Neuroimaging
+- Brain-inspired AI
+
+Currently working on:
+- MRI anomaly detection for neurological diseases
+- Machine learning for neuroimaging
+- NeuroAI research
+
+## Projects
+
+- NeuroAI starter project – anomaly detection for brain imaging
+- Sentiment analysis text classification
+- SAT/SMT solvers and logical reasoning
+- Machine learning experiments
+
+## Research interests
+
+- NeuroAI
+- Brain-inspired artificial intelligence
+- AI for neuroimaging
+- Computational neuroscience
+- Philosophy and Ethics of AI
