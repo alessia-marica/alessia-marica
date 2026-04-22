@@ -15,12 +15,6 @@ Currently working on:
 - Machine learning for neuroimaging
 - NeuroAI research
 
-## Projects
-
-- NeuroAI starter project – anomaly detection for brain imaging
-- Sentiment analysis text classification
-- SAT/SMT solvers and logical reasoning
-- Machine learning experiments
 
 ## Research interests
 
